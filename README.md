@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jazhardcore7
-- 👀 I’m interested in leaning java language
+- 👀 I’m interested in learning about 
 - 🌱 I’m currently learning in computer science ,informatics engineering at Sriwijaya University
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me my instagram (@bintramnsr_) 
