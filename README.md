@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jazhardcore7
+- 👋 Hi, I’m Ahmad Bintara Mansur
 - 👀 I’m interested in learning and collaborate with others
 - 🅱️ I'm a Bangkit Academy 2024 Cohort in Android Learning Path
 - 🌱 I’m currently learning in computer science ,informatics engineering at Sriwijaya University
